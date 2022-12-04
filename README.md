@@ -6,7 +6,7 @@
 
 大致的流程为：
 
-安装ubuntu双系统$\ \rightarrow \ $配置ubuntu基础功能$\ \rightarrow \ $安装显卡驱动$\ \rightarrow \ $安装cudatoolkit $\ \rightarrow \ $ 使用Anaconda配置python虚拟环境$\ \rightarrow \ $ 根据项目需求安装pytorch及依赖。
+安装ubuntu双系统、配置ubuntu基础功能、安装显卡驱动、安装cudatoolkit、使用Anaconda配置python虚拟环境、根据项目需求安装pytorch及依赖。
 
 （需求：nvidia显卡）
 
@@ -22,7 +22,7 @@
 
 ### 2. 安装步骤：
 
-下载ubuntu系统镜像(18.04版本比较常见)$\ \rightarrow \ $ 用U盘制作安装盘 $\ \rightarrow \ $ 进bios关闭安全启动/改变启动顺序 $\ \rightarrow \ $ 安装
+下载ubuntu系统镜像(18.04版本比较常见)、用U盘制作安装盘、进bios关闭安全启动/改变启动顺序、安装。
 
 具体操作参照教程：
 
