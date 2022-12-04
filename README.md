@@ -116,12 +116,22 @@ sudo ./cuda_11.0.2_450.51.05_linux.run
 
 [Ubuntu18.04 安装 Anaconda3_梦dancing的博客-CSDN博客_ubuntu18安装anaconda](https://blog.csdn.net/qq_15192373/article/details/81091098)
 
+(启动anaconda页面的命令：
+
+```
+anaconda-navigator
+```
+
+)
+
+
+
 ### 2. 创建环境：
 
 按照项目代码要求，创建相应版本的虚拟环境：
 
 ```
-cuda create -n envname python=3.x
+conda create -n envname python=3.x
 ```
 
 ### 3. 安装pytorch
