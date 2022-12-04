@@ -55,7 +55,21 @@ sudo apt upgrade
 
 ### 1. 查看推荐驱动：
 
+使用：
+
+```
+ubuntu-drivers devices
+```
+
+查看推荐的驱动(标有recommended的版本)。
+
 ### 2. 安装驱动：
+
+参考教程：
+
+[ubuntu18.04“软件与更新”中无附加驱动问题（已解决）_hongyiWeng的博客-CSDN博客](https://blog.csdn.net/hongyiWeng/article/details/121084076)
+
+在 软件与更新-附加驱动 中选择推荐版本的驱动，然后应用更改。
 
 ### 3. 安装CUDA：
 
@@ -76,6 +90,8 @@ sudo apt upgrade
 ![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cuda.png)
 
 这样选择：
+
+![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/choose.png)
 
 会生成两段命令。
 
