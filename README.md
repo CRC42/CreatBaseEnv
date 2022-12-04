@@ -79,7 +79,7 @@ ubuntu-drivers devices
 
 以pytorch1.7.1为例，在网页搜索1.7.1，结果为：
 
-![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cudaversion.png)
+![image](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cudaversion.png)
 
 可以看到有四个版本可以选择。
 
@@ -87,11 +87,11 @@ ubuntu-drivers devices
 
 搜索cuda toolkit 11.0：
 
-![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cuda.png)
+![image](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cuda.png)
 
 这样选择：
 
-![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/choose.png)
+![image](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/choose.png)
 
 会生成两段命令。
 
