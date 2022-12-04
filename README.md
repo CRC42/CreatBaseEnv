@@ -65,7 +65,9 @@ sudo apt upgrade
 
 以pytorch1.7.1为例，在网页搜索1.7.1，结果为：
 
+![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cudaversion.png)
 
+可以看到有四个版本可以选择。
 
 可以看到有四个版本可以选择。
 
