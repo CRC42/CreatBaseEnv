@@ -69,11 +69,11 @@ sudo apt upgrade
 
 可以看到有四个版本可以选择。
 
-可以看到有四个版本可以选择。
-
 以CUDA11.0为例，
 
 搜索cuda toolkit 11.0：
+
+![](https://github.com/CRC42/CreatBaseEnv/blob/main/pic/cuda.png)
 
 这样选择：
 
