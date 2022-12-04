@@ -110,7 +110,7 @@ sudo ./cuda_11.0.2_450.51.05_linux.run
 
 ## 四、配置python虚拟环境
 
-#### 1. 安装anaconda：
+### 1. 安装anaconda：
 
 参考教程：
 
@@ -124,7 +124,7 @@ sudo ./cuda_11.0.2_450.51.05_linux.run
 cuda create -n envname python=3.x
 ```
 
-#### 3. 安装pytorch
+### 3. 安装pytorch
 
 在前文所述的 https://pytorch.org/get-started/previous-versions/ 中查看安装命令：
 
@@ -140,7 +140,7 @@ conda activate envname
 pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-#### 4. 安装其他的依赖：
+### 4. 安装其他的依赖：
 
 根据项目代码要求进行安装，如果提供了文件requirements.txt，则
 
