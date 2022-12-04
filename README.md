@@ -95,9 +95,9 @@ ubuntu-drivers devices
 
 会生成两段命令。
 
-首先复制第一行命令，粘贴到ubuntu命令行中运行。
+首先复制第一行wget命令，粘贴到ubuntu命令行中运行。
 
-下载结束之后，运行这两段命令：
+下载结束之后，不要使用官网的第二行命令，运行这两段命令：
 
 ```
 sudo chmod +x cuda_11.0.2_450.51.05_linux.run
