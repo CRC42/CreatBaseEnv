@@ -51,7 +51,7 @@ sudo apt upgrade
 
 [ubuntu18.04下安装中文输入法 - 吾码的博客 - 博客园](https://www.cnblogs.com/51ma/p/12868504.html)
 
-### 三、显卡驱动与CUDA安装
+## 三、显卡驱动与CUDA安装
 
 ### 1. 查看推荐驱动：
 
