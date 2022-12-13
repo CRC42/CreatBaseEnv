@@ -2,6 +2,9 @@
 
 创建ubuntu+pytorch环境的笔记
 
+cvpr2022论文/代码分类汇总：
+https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation 
+
 ## 一、概述
 
 大致的流程为：
